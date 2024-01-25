@@ -8,7 +8,7 @@ format: html
 # format: pdf
 ---
 
-[Link to the Github repository](https://github.com/psu-stat380/hw-2)
+[Link to the Github repository](https://github.com/STAT380/hw2.git)
 
 ---
 
